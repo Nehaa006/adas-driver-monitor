@@ -1,0 +1,55 @@
+# Datasets & Data Folders
+data/
+dataset/
+datasets/
+*.csv
+*.tsv
+*.json
+*.xml
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.rar
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Model Weights & Exports
+*.pt
+*.pth
+*.onnx
+*.engine
+*.plan
+*.tftrt
+models/*.pt
+models/*.pth
+models/*.engine
+
+# Environments & Build
+.venv
+venv/
+ENV/
+env/
+build/
+dist/
+*.egg-info/
+
+# Logs, Runs & Output Media
+*.log
+*.avi
+*.mp4
+*.mkv
+*.jpg
+*.jpeg
+*.png
+runs/
+
+# IDE & OS Files
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*~

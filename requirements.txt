@@ -1,0 +1,21 @@
+# --- Core Deep Learning & Computer Vision ---
+torch>=2.0.0
+torchvision>=0.15.0
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+
+# --- Face & Facial Landmark Tracking ---
+mediapipe>=0.10.0
+
+# --- Dataset Management & Utilities ---
+roboflow>=1.1.0
+onnx>=1.14.0
+onnxscript>=0.1.0
+numpy>=1.23.5
+matplotlib>=3.7.0
+pillow>=9.5.0
+pyyaml>=6.0
+
+# --- Code Quality & Logging ---
+tqdm>=4.65.0
+scikit-learn>=1.2.0
